@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Colbylee Mincey
  */
 
 public class Class2 {
